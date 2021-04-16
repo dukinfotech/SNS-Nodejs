@@ -1,0 +1,5 @@
+1. Require/ Export module trong Nodejs dùng để liên kết các file .js với nhau
+2. Thư viện ejs dùng để chèn code js vào file html
+3. Thư viện express-ejs-layouts dùng để xử lý vấn đề sử dụng lại layouts
+4. Thư viện express dùng để tạo route, middleware,... giúp cho xử lý http nhanh hơn
+5. Thư viện sequenlize + mysql2 dùng để model hóa CSDL và tránh phải viết câu lệnh SQL dài dòng
